@@ -1,0 +1,5 @@
+datadog==0.38.0
+boto3
+botocore
+pylint
+snakeviz
